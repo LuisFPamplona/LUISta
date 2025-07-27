@@ -5,7 +5,7 @@ import { loadTasks } from "../storage/localStorageUtils";
 import Filter from "./Filter";
 import SearchBar from "./SearchBar";
 import EditInput from "./EditInput";
-import ButtonBar from "./buttonBar";
+import ButtonBar from "./ButtonBar";
 import DeleteAlerts from "./DeleteAlerts";
 import Footer from "./Footer";
 import Header from "./Header";

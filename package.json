@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://luisfpamplona.github.io/react-todolist",
+  "homepage": "https://luisfpamplona.github.io/LUIsta",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
