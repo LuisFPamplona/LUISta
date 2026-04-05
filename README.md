@@ -1,21 +1,34 @@
-# ✅ React To-Do List
-
-Uma aplicação de lista de tarefas desenvolvida em **React**, com foco em **produtividade**, **organização**, **estilo moderno** e **responsividade** (mobile-first). Ideal para treinar conceitos fundamentais do React e praticar boas práticas com localStorage, componentes reutilizáveis e controle de estado.
-
----
-
-## 📸 Demonstração
-
-> Você pode testar o projeto diretamente pelo GitHub Pages:
-
-🔗 **[Acessar o projeto online](https://luisfpamplona.github.io/react-todolist/)**
+<h1 align="center">LUISta de tarefas</h1>
+<p align="center">Organize sua rotina em qualquer lugar, de forma prática e intuitiva.</p>
 
 ---
 
-## 🛠️ Funcionalidades
+## Demonstração
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://i.imgur.com/a0tojcn.gif" width="250"/>
+    </td>
+    <td align="center">
+      <img src="https://i.imgur.com/LUUbkmf.png" width="450"/>
+      <br><br><br><br>
+      <p>
+        Aplicação de lista de tarefas desenvolvida em React, com foco em produtividade e organização. Possui interface moderna e responsiva (mobile-first), permitindo o gerenciamento eficiente de tarefas. Utiliza conceitos como componentes reutilizáveis, controle de estado e persistência de dados com localStorage.
+      </p>
+      <p>
+        Experimente aqui: https://lui-sta.vercel.app/
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Funcionalidades
 
 - Adicionar novas tarefas
-- Marcar tarefas como concluídas (✔️)
+- Marcar tarefas como concluídas
 - Editar tarefas existentes
 - Excluir tarefas com confirmação
 - Filtros: todas, pendentes e concluídas
@@ -26,7 +39,7 @@ Uma aplicação de lista de tarefas desenvolvida em **React**, com foco em **pro
 
 ---
 
-## 📁 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```
 src/
@@ -48,7 +61,7 @@ src/
 
 ---
 
-## 🧪 Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - React
 - Tailwind CSS
@@ -58,7 +71,7 @@ src/
 
 ---
 
-## 🚀 Como executar o projeto localmente
+## Como executar o projeto localmente
 
 1. Clone o repositório:
 ```bash
@@ -77,20 +90,8 @@ npm run dev
 
 ---
 
-## 🌐 Deploy no GitHub Pages
 
-O projeto está publicado usando `gh-pages` com o Vite configurado:
-
-```json
-"scripts": {
-  "predeploy": "npm run build",
-  "deploy": "gh-pages -d dist"
-}
-```
-
----
-
-## 👨‍💻 Autor
+## Autor
 
 **Luis Pamplona**  
 [GitHub](https://github.com/LuisFPamplona)
